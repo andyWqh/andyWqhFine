@@ -1,0 +1,17 @@
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\andyWqhCommon.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\andyWqhCommon.pdb
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\log4net.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\Newtonsoft.Json.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\NPOI.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\NPOI.OOXML.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\NPOI.OpenXml4Net.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\log4net.xml
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\Newtonsoft.Json.xml
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\NPOI.xml
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\NPOI.OOXML.xml
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\bin\Debug\NPOI.OpenXml4Net.xml
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\obj\Debug\andyWqhCommon.dll
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\obj\Debug\andyWqhCommon.pdb
+E:\StudyCode\andyWqhCode\MVCProject\andyWqhFine\andyWqhCommon\obj\Debug\Fine.Common.csprojResolveAssemblyReference.cache
